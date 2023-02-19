@@ -1,0 +1,7 @@
+# Basket discount configuration
+
+base_price: 20
+franchises:
+  - name: Back to the Future
+    price: 15
+    discount_per_movie: {2: 10, 3: 20}
